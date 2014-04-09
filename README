@@ -9,3 +9,7 @@ See doc/TODO for open tasks.
 Happy hacking!
 
   -- nickm
+  
+beginning to rationalize steg module frameworks, also should look into OpenSSL dependencies.
+
+  -- BaronWolfenstein
